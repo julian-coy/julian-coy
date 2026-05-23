@@ -1,8 +1,12 @@
+<div align="center">
+
 # Hi there, I'm Julian 👋
 
 ### ☁️ Cloud DevOps Engineer | AWS Certified x3 | Terraform | Docker | ECS | CI/CD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Coy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julian-c-aws/)
+
+</div>
 
 ---
 
@@ -16,14 +20,15 @@ Experienced in Terraform and CloudFormation for infrastructure as code, GitHub A
 
 ## 🌱 Certifications
 
+<div align="center">
 <table>
   <tr>
     <td align="center">
-      <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-DevOps-Engineer-Professional_badge_150x150.3e42789ededb439de4b0c85fdfecfde52f7a11ed.png" width="100" /><br/>
+      <img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100" /><br/>
       <b>AWS DevOps Engineer<br/>Professional (DOP-C02)</b>
     </td>
     <td align="center">
-      <img src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e35756d00d1cc77b5a4fc15e49e86b08ebe1aef8.png" width="100" /><br/>
+      <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" /><br/>
       <b>AWS Solutions Architect<br/>Associate (SAA-C03)</b>
     </td>
     <td align="center">
@@ -32,6 +37,7 @@ Experienced in Terraform and CloudFormation for infrastructure as code, GitHub A
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -74,6 +80,8 @@ Experienced in Terraform and CloudFormation for infrastructure as code, GitHub A
 
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS X-Ray](https://img.shields.io/badge/X--Ray-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
@@ -97,9 +105,11 @@ Experienced in Terraform and CloudFormation for infrastructure as code, GitHub A
 
 ## 📊 GitHub Statistics
 
-![Julian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=julian-coy&show_icons=true&theme=dark&hide_border=false)
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=julian-coy&theme=dark&hide_border=false)
+
+</div>
 
 ---
 
